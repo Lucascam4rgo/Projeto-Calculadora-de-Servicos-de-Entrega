@@ -29,6 +29,7 @@ Compile e execute a classe principal entrega_main localizada no pacote Calculado
 Siga as instruções no console para usar a calculadora de serviços de entrega.
 
 Estrutura do projeto
+
 application/ — contém a classe principal entrega_main para executar o programa
 
 entities/ — contém a classe Entrega com os atributos e métodos para cálculo
