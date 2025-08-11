@@ -17,22 +17,20 @@ Projeto simples em Java que calcula o valor de um serviço de entrega baseado em
 ## Como usar
 
 1. Clone este repositório:
-
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-```
-
+   ```bash
+   git clone https://github.com/Lucascam4rgo/Projeto-Calculadora-de-Servicos-de-Entrega.git
+   ```
+   
 Abra o projeto em sua IDE Java favorita (IntelliJ, Eclipse, VSCode etc.).
 
 Compile e execute a classe principal entrega_main localizada no pacote CalculadoraDeServiçosDeEntrega.application.
 
 Siga as instruções no console para usar a calculadora de serviços de entrega.
 
-Estrutura do projeto
+## Estrutura do projeto
 
 application/ — contém a classe principal entrega_main para executar o programa
-
-entities/ — contém a classe Entrega com os atributos e métodos para cálculo
+entities/    — contém a classe Entrega com os atributos e métodos para cálculo
 
 ## Tecnologias usadas
 Java 21
