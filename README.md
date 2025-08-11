@@ -20,6 +20,8 @@ Projeto simples em Java que calcula o valor de um serviço de entrega baseado em
 
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
+```
+
 Abra o projeto em sua IDE Java favorita (IntelliJ, Eclipse, VSCode etc.).
 
 Compile e execute a classe principal entrega_main localizada no pacote CalculadoraDeServiçosDeEntrega.application.
