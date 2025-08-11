@@ -34,10 +34,10 @@ application/ — contém a classe principal entrega_main para executar o program
 
 entities/ — contém a classe Entrega com os atributos e métodos para cálculo
 
-Tecnologias usadas
+## Tecnologias usadas
 Java 21
 
 Console (linha de comando)
 
-Autor
+## Autor
 Lucas Camargo
